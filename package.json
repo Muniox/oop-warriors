@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Muniox/oop-warriors/issues"
   },
-  "homepage": "https://github.com/Muniox/oop-warriors#readme"
+  "homepage": "https://github.com/Muniox/oop-warriors#readme",
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
