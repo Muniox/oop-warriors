@@ -1,0 +1,19 @@
+{
+  "name": "oop-warriors",
+  "version": "1.0.0",
+  "description": "OOP_Warriors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muniox/oop-warriors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muniox/oop-warriors/issues"
+  },
+  "homepage": "https://github.com/Muniox/oop-warriors#readme"
+}
